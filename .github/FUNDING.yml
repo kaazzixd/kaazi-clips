@@ -1,10 +1,5 @@
-# Puts a "Sponsor" button at the top of the repository page and in the
-# sidebar, next to Watch and Fork. GitHub reads this file automatically; there
-# is nothing to enable.
+# Sponsor button on the repository page.
+# Add your own funding links here if you want them.
 #
-# PayPal is not one of GitHub's built-in platforms, so it goes under `custom`,
-# which renders as a plain link in the sponsor panel. Everything else is left
-# out rather than listed empty — a blank platform key makes GitHub skip the
-# whole file.
-
-custom: ['https://paypal.me/clipsstudio']
+# custom: ['https://paypal.me/YOUR_USERNAME']
+# github: [kaazzixd]
